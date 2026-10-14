@@ -1,0 +1,13 @@
+{
+  "name": "conexion-nodejs-postgres",
+  "version": "1.0.0",
+  "description": "Proyecto Node.js que verifica la conexión a PostgreSQL con pg",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "pg": "^8.13.0"
+  }
+}
